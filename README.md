@@ -1,6 +1,6 @@
 # Basic Applications of Large-Language Models
 
-## Tutorial for [Design++](https://designplusplus.ethz.ch) [Summer School AI in AEC 2024](https://designplusplus.ethz.ch/education/summer-school.html)
+## Tutorial for [Design++](https://designplusplus.ethz.ch) [Summer School AI in AEC 2024](https://designplusplus.ethz.ch/education/summer-school.html), ETH Zurich
 
 Open the tutorial notebook [here](intro_to_llms.ipynb)
  
