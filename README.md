@@ -8,7 +8,7 @@ Open the tutorial notebook [here](intro_to_llms.ipynb)
 
 First create a python 3 environment. If you use conda then in the terminal run:
 
-    conda create -n llm_tutorial python=3 ipykernel pandas numpy
+    conda create -n llm_tutorial python=3.12 ipykernel pandas numpy
 
 Activate the environment:
 
