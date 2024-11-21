@@ -8,7 +8,7 @@ Open the tutorial notebook [here](intro_to_llms.ipynb)
 
 First create a python 3 environment. If you use conda then in the terminal run:
 
-    conda create -n llm_tutorial python=3.12 ipykernel pandas numpy
+    conda create -n llm_tutorial python=3.12
 
 Activate the environment:
 
@@ -16,4 +16,4 @@ Activate the environment:
 
 Install the needed packages:
 
-    pip install langchain langchain-openai langchain-community langchain-text-splitters tiktoken rich beautifulsoup4 pypdf
+    pip install -r requirements.txt
